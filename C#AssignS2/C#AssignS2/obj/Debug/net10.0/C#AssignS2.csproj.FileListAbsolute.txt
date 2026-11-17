@@ -1,0 +1,15 @@
+D:\projects\C#AssignS2\C#AssignS2\bin\Debug\net10.0\C#AssignS2.exe
+D:\projects\C#AssignS2\C#AssignS2\bin\Debug\net10.0\C#AssignS2.deps.json
+D:\projects\C#AssignS2\C#AssignS2\bin\Debug\net10.0\C#AssignS2.runtimeconfig.json
+D:\projects\C#AssignS2\C#AssignS2\bin\Debug\net10.0\C#AssignS2.dll
+D:\projects\C#AssignS2\C#AssignS2\bin\Debug\net10.0\C#AssignS2.pdb
+D:\projects\C#AssignS2\C#AssignS2\obj\Debug\net10.0\C#AssignS2.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#AssignS2\C#AssignS2\obj\Debug\net10.0\C#AssignS2.AssemblyInfoInputs.cache
+D:\projects\C#AssignS2\C#AssignS2\obj\Debug\net10.0\C#AssignS2.AssemblyInfo.cs
+D:\projects\C#AssignS2\C#AssignS2\obj\Debug\net10.0\C#AssignS2.csproj.CoreCompileInputs.cache
+D:\projects\C#AssignS2\C#AssignS2\obj\Debug\net10.0\C#AssignS2.dll
+D:\projects\C#AssignS2\C#AssignS2\obj\Debug\net10.0\refint\C#AssignS2.dll
+D:\projects\C#AssignS2\C#AssignS2\obj\Debug\net10.0\C#AssignS2.pdb
+D:\projects\C#AssignS2\C#AssignS2\obj\Debug\net10.0\C#AssignS2.genruntimeconfig.cache
+D:\projects\C#AssignS2\C#AssignS2\obj\Debug\net10.0\ref\C#AssignS2.dll
+D:\projects\C#AssignS2\C#AssignS2\obj\Debug\net10.0\C#AssignS2.csproj.Up2Date
